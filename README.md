@@ -1,1 +1,1 @@
-Medical management system which is developed in c language.
+Data stucture using c language
